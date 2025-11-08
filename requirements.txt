@@ -1,0 +1,26 @@
+# Core LangChain and LangGraph
+langgraph
+langchain
+langchain-openai
+
+# Azure OpenAI Support
+openai
+
+# Environment management
+python-dotenv
+
+# Utilities
+typing-extensions
+colorama
+
+# Web Interface
+streamlit
+fastapi
+uvicorn
+
+# Document Processing
+PyPDF2
+python-docx
+
+# Testing
+pytest
